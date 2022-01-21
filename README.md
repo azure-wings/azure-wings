@@ -1,8 +1,8 @@
 ### Hello, I am...
 **azurewings / Giyeon Lee**
 
-- graduate of Korea Science Academy of KAIST
-- currently studying Computer Science and Mathematics at KAIST
+- Graduate of Korea Science Academy of KAIST
+- Currently studying Computer Science and Mathematics at KAIST
 
 ### Intrested in...
 
